@@ -1,2 +1,4 @@
 # git
-this is a simple fil
+this is a simple file
+my name is praveen
+my country is india
